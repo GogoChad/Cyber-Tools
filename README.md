@@ -37,8 +37,8 @@ sudo ./install_security_tools.sh
 ### Manual Installation
 ```bash
 # Clone this repository
-git clone https://github.com/yourusername/yourrepo.git
-cd yourrepo
+git clone https://raw.githubusercontent.com/GogoChad/Cyber-Tools/refs/heads/main/cyber-tool.sh
+cd Cyber-tools
 
 # Make script executable
 chmod +x install_security_tools.sh
@@ -585,4 +585,4 @@ This installation script is provided as-is for educational and authorized securi
 
 ## Disclaimer
 These tools should only be used for legal security testing and educational purposes. Always obtain proper authorization before testing systems you don't own. Unauthorized access to computer systems is illegal.
-### This script was made by GogoChad using the exegol.scv file on the exegol website.
+### This script was made by GogoChad using the exegol.csv file on the exegol website.
