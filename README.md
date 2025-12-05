@@ -47,7 +47,7 @@ Both scripts install 200+ security tools including network scanners, web applica
 
 ```bash
 # Download the script
-wget https://raw.githubusercontent.com/GogoChad/Cyber-Tools/refs/heads/main/cyber-tool.sh
+wget https://raw.githubusercontent.com/GogoChad/Cyber-Tools/refs/heads/main/pacman-cyber-tool.sh
 
 # Rename for clarity (optional)
 mv cyber-tool.sh install_security_tools_arch.sh
@@ -63,7 +63,7 @@ sudo ./install_security_tools_arch.sh
 
 ```bash
 # Download the Kali script
-wget https://raw.githubusercontent.com/GogoChad/Cyber-Tools/refs/heads/main/kali-security-tools.sh
+wget https://raw.githubusercontent.com/GogoChad/Cyber-Tools/refs/heads/main/apt-cyber-tools.sh
 
 # Make it executable
 chmod +x kali-security-tools.sh
