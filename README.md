@@ -47,7 +47,7 @@ Both scripts install 200+ security tools including network scanners, web applica
 
 ```bash
 # Download the script
-wget https://raw.githubusercontent.com/GogoChad/Cyber-Tools/refs/heads/main/pacman-cyber-tool.sh
+wget https://raw.githubusercontent.com/GogoChad/Cyber-Tools/refs/heads/main/pacman-cyber-tools.sh
 
 # Rename for clarity (optional)
 mv cyber-tool.sh install_security_tools_arch.sh
