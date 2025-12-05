@@ -585,4 +585,7 @@ This installation script is provided as-is for educational and authorized securi
 
 ## Disclaimer
 These tools should only be used for legal security testing and educational purposes. Always obtain proper authorization before testing systems you don't own. Unauthorized access to computer systems is illegal.
+
+
+## Also note that some of the packages may not be installed.
 ### This script was made by GogoChad using the exegol.csv file on the exegol website.
