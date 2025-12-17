@@ -95,20 +95,9 @@ sudo ./kali-security-tools.sh            # For Kali Linux
 ### Arch Linux
 **Expected Duration**: 1 hour 40 minutes (typical range: 1-3 hours)
 
-Factors affecting installation time:
-- Internet connection speed (downloading packages)
-- CPU performance (compiling AUR packages)
-- Number of tools successfully installed
-- System load during installation
 
 ### Kali Linux
 **Expected Duration**: 30-60 minutes (typical range: 20-90 minutes)
-
-Factors affecting installation time:
-- Internet connection speed
-- Many tools are pre-installed, reducing time
-- Kali uses pre-compiled packages (no AUR compilation)
-- System specifications
 
 ---
 
@@ -654,17 +643,6 @@ sudo apt autoremove --purge
 
 ⚠️ **Data Privacy**: Be careful with sensitive data captured during testing. Follow responsible disclosure practices.
 
-### Best Practices
-
-1. **Use in Isolated Environments**: Test in VMs or isolated networks when possible
-2. **Keep Tools Updated**: Regularly update your tools to get latest features and fixes
-3. **Understand Tools**: Learn what each tool does before using it
-4. **Document Everything**: Keep detailed notes of your testing activities
-5. **Secure Your System**: Your pentesting machine contains sensitive tools and data
-6. **Use VPN/Proxy**: Protect your identity and location when appropriate
-7. **Backup Configuration**: Keep backups of your tool configurations
-
-### Recommended Practices
 
 ```bash
 # Create a backup of tool configurations
